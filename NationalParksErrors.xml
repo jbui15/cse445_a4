@@ -3,14 +3,13 @@
 
  <NationalPark Rating="63">
   <Name>Hot Springs National Park</Name>
-  <Phone>501-321-2277</Phone>
-  <Phone>1-800-SPA-CITY</Phone>
   <Address>
    <Number>629</Number>
    <Street>Central Avenue</Street>
    <City>Hot Springs</City>
    <State>AR</State>
    <Zip>71901</Zip>
+  </Address>
  </NationalPark>
 
 
@@ -23,12 +22,12 @@
    <City>Grand Canyon</City>
    <State>AZ</State>
    <Zip>86023</Zip>
-  </Address>
  </NationalPark>
 
 
  <NationalPark>
   <Name>Congaree National Park</Name>
+  <Name>Congaree Natnl Park</Name>
   <Phone>803-776-4396</Phone>
   <Address>
    <Number>100</Number>
@@ -62,13 +61,13 @@
    <City>Porter</City>
    <State>IN</State>
    <Zip>46304</Zip>
-   <NearestAirport>Chicago</NearestAirport>
   </Address>
  </NationalPark>
 
 
  <NationalPark>
   <Name>Cuyahoga Valley National Park</Name>
+  <Phone>440-717-3890</Phone>
   <Address>
    <Number>15610</Number>
    <Street>Vaugn Road</Street>
@@ -123,7 +122,7 @@
 
 
  <NationalPark>
-  <Name>Sequoia & Kings Canyon National Parks</Name>
+  <Name>Sequoia &amp; Kings Canyon National Parks</Name>
   <Phone>559-565-3341</Phone>
   <Address>
    <Number>47050</Number>
@@ -134,5 +133,5 @@
   </Address>
  </NationalPark>
 
-
+ 
 </NationalPark>
