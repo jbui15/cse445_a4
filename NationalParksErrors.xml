@@ -1,4 +1,4 @@
-<NationalPark>
+<NationalPark xmlns="https://jbui15.github.io/cse445_a4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jbui15.github.io/cse445_a4/ NationalParks.xsd">
 
 
  <NationalPark Rating="63">
