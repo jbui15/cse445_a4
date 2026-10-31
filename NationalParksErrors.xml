@@ -22,6 +22,7 @@
    <City>Grand Canyon</City>
    <State>AZ</State>
    <Zip>86023</Zip>
+  </Address>
  </NationalPark>
 
 
@@ -130,7 +131,6 @@
    <City>Three Rivers</City>
    <State>CA</State>
    <Zip>93271</Zip>
-  </Address>
  </NationalPark>
 
  
